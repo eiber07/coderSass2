@@ -10,7 +10,7 @@ html{
 }
 
 .bodyCont{
-    background-color: #fafaff;
+    background-color: $color-secondar;
     display: grid;
     grid-template-rows: auto 1fr 1fr auto;
 }
@@ -75,7 +75,7 @@ html{
 }
 
 .hero__text{
-    color: #fafaff;
+    color: $color-secondary;
     text-align: center;
     font-size: 3.2rem;
     height: 400px;
